@@ -1,18 +1,6 @@
----
-title: "Rahul Vishwakarma"
-logo: "/assets/img/rahul_badge.jpg"
-description: |
-  <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-vishwakarma-106284170">LinkedIn</a> |
-  <a href="https://github.com/rvk16">GitHub</a>
-  
-  <br>   
-  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
-  Also handling the Big Data from real-time Ad call data.
-  Worked with Servicenow at Big Data Analytics team.
-  Working in Telecom and Digital Workflow domain for 3 years.
-  <br>
-  </p>
+title: Rahul Vishwakarma
+logo: /assets/img/profile.jpg
+description: Senior Software Engineer | Big Data & Distributed Systems
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
----
-
